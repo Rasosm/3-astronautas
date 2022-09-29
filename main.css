@@ -1,0 +1,15 @@
+header {
+  width: 800px;
+  background: red;
+  margin-left: calc((100% - 800px) / 2);
+}
+main {
+  width: 800px;
+  background: greenyellow;
+  margin-left: calc((100% - 800px) / 2);
+}
+footer {
+  width: 800px;
+  background: yellow;
+  margin-left: calc((100% - 800px) / 2);
+}

@@ -22,7 +22,7 @@ main {
 div {
  width: 46%;
  float: left;
- margin-top: 60px;
+ margin-top: 50px;
 }
 div > a {
   margin-right: 20px; 
@@ -37,10 +37,12 @@ img {
 footer {
   width: 800px;
   margin-left: calc((100% - 800px) / 2);
+  margin-top: 60px;
+  }
+footer > a {
+  padding: 15px;
+
 }
-
-
-
 h1 {
   font-weight: normal;
   font-size: 45px;

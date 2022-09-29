@@ -3,9 +3,16 @@ body {
 }
 header {
   width: 800px;
-  display: inline-block;
   margin-left: calc((100% - 800px) / 2);
-}
+  font-size: 15px;
+  text-decoration: none;
+  padding: 10px;
+  text-align: right;
+  color: #272358;
+  }
+header > a {
+  color: #272358;
+  }
 main {
   width: 800px;
   display: inline-block;
@@ -15,7 +22,6 @@ main {
 div {
  width: 46%;
  float: left;
- margin-left: 40px;
  margin-top: 60px;
 }
 div > a {
@@ -23,7 +29,7 @@ div > a {
   padding: 15px;
 }
 img {
-  width: 49%;
+  width: 54%;
   float: right;
   margin-right: 0;
 
@@ -33,23 +39,13 @@ footer {
   margin-left: calc((100% - 800px) / 2);
 }
 
-header > a {
-  float: left;
-  
-}
 
-header nav {
-  float: right;
-}
 
-li {
-  display: inline-block;
-}
 h1 {
   font-weight: normal;
-  font-size: 40px;
+  font-size: 45px;
   margin: 0;
   }
 a {
   text-decoration: none;
-}
+  }

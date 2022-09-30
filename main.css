@@ -6,7 +6,6 @@ header {
   margin-left: calc((100% - 800px) / 2);
   font-size: 15px;
   text-decoration: none;
-  padding: 10px;
   text-align: right;
   color: #272358;
   }
@@ -17,26 +16,24 @@ main {
   width: 800px;
   display: inline-block;
   margin-left: calc((100% - 800px) / 2);
+  margin-top: 30px;
 }
 
 div {
- width: 46%;
+ width: 40%;
  float: left;
  margin-top: 50px;
-}
-div > a {
-  margin-right: 20px; 
-  padding: 15px;
-  
-}
+ }
+
 img {
-  width: 54%;
+  width: 60%;
   float: right;
   margin-right: 0;
+  margin-top: 30px;
 }
 button{
   border-radius: 40px;
-  padding: 12px 32px;
+  padding: 11px 28px;
   border: 2px solid #272358;
   margin-left: 0;
   float: left;
@@ -45,12 +42,13 @@ button{
 .button1{
   background: #272358; 
   color: #ffffff; 
-  margin-right: 15px;
+  margin-right: 10px;
   
 }
 .button2{
   background: #ffffff; 
-  color: #272358; 
+  color: #272358;
+  margin-right: 10px; 
   
 
 }
@@ -60,7 +58,7 @@ footer {
   margin-left: calc((100% - 800px) / 2);
   margin-top: 60px;
   }
-footer > a {
+footer a {
   padding: 15px;
   color: grey;
   
@@ -68,9 +66,15 @@ footer > a {
 }
 h1 {
   font-weight: normal;
-  font-size: 45px;
+  font-size: 40px;
   margin: 0;
+  margin-top: 20px;
   }
 a {
   text-decoration: none;
   }
+p {
+  color: #272358; 
+  font-size: 14px;
+  margin: 3px;
+}

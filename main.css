@@ -66,11 +66,12 @@ button{
   margin-left: 0;
   float: left;
   text-transform: uppercase;
+  margin-right: 10px;
  }
 .button1{
   background: #55337A; 
   color: #ffffff; 
-  margin-right: 10px;
+  
  }
 .button2{
   background: #ffffff; 

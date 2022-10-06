@@ -1,15 +1,17 @@
 # Astronautas
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Student project
+
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: rasosm.github.io/3-astronautas/
 
 Design: https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space
 
 ## Project features
-- Github markdown syntax
+- md - Github markdown syntax
 - single-page
+- fixed width and centered content (without responsive design)
 - main title line (pseudo element)
 - round buttons
 - social icons as fonts

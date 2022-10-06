@@ -68,7 +68,7 @@ body {
 }
 .btn {
   display: inline-block;
-  border-radius: 40px;
+  border-radius: 1.57em;
   padding: 0.8em;
   padding-left: 2em;
   padding-right: 2em;
